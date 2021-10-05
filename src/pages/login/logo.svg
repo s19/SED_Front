@@ -1,0 +1,47 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;" stroke="null">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" x="-1" y="-1" width="802" height="602" id="canvas_background" fill="#fff"/>
+  <g stroke="null" id="canvasGrid" display="none">
+   <rect stroke="null" id="svg_1" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+  <desc stroke="null">Created with Sketch.</desc>
+  <line stroke="null" fill="none" stroke-width="1.5" stroke-opacity="null" x1="58" y1="117" x2="136" y2="225" id="svg_25" stroke-linejoin="null" stroke-linecap="null"/>
+  <rect stroke="#000" id="svg_2" height="628.00001" width="1007.99999" y="-26.49999" x="-104.99995" opacity="NaN" fill="#428bca"/>
+  <g stroke="null" id="svg_54">
+   <g stroke="null" id="svg_53" transform="matrix(1.6342213387602924,0.46860542819809553,-0.46860542819809553,1.6342213387602924,-5.504461526610044,-500.20928065814087) ">
+    <rect stroke="null" fill="#47c1f0" stroke-width="1.5" x="233.45461" y="262.06725" width="125.50944" height="182.49709" id="svg_45" transform="rotate(9 296.2093200683593,353.3157958984376) " opacity="0.6"/>
+    <rect stroke="null" fill="#000000" stroke-width="1.5" x="260.44408" y="294.70086" width="29.73403" height="3.08944" id="svg_46" transform="rotate(9 275.3110961914062,296.2455749511721) " opacity="0.6"/>
+    <rect stroke="null" fill="#000000" stroke-width="1.5" x="258.07986" y="312.32844" width="88.89714" height="3.08944" id="svg_47" transform="rotate(9 302.52844238281233,313.8731689453124) " opacity="0.6"/>
+    <rect stroke="null" fill="#000000" stroke-width="1.5" x="254.07986" y="338.32844" width="88.89714" height="3.08944" id="svg_48" transform="rotate(9 298.5284423828119,339.8731689453126) " opacity="0.6"/>
+    <rect stroke="null" fill="#000000" stroke-width="1.5" x="256.07986" y="325.32844" width="88.89714" height="3.08944" id="svg_49" transform="rotate(9 300.5284423828118,326.8731689453126) " opacity="0.6"/>
+    <rect stroke="null" fill="#000000" stroke-width="1.5" x="252.29125" y="347.75913" width="56.03965" height="2.97289" id="svg_50" transform="rotate(9 280.3110961914069,349.24557495117205) " opacity="0.6"/>
+    <path stroke="null" fill="#ffffff" stroke-width="1.5" stroke-opacity="null" d="m336.85636,303.11722l0,-33.04923l33.04924,33.04923l-33.04924,0z" id="svg_51" transform="rotate(9 353.3809814453121,286.5926208496094) " opacity="0.6"/>
+   </g>
+   <g stroke="null" id="svg_44" transform="matrix(1.4572525875251738,-0.8756056918198901,0.8756056918198901,1.4572525875251738,-388.92549964556656,49.44757272089862) ">
+    <rect stroke="null" fill="#20a9e1" stroke-width="1.5" x="216.78801" y="317.00082" width="125.50944" height="182.49709" id="svg_36" transform="rotate(9 279.54272460937506,408.24935913085955) "/>
+    <rect stroke="null" fill="#000000" stroke-width="1.5" x="243.77748" y="349.63443" width="29.73403" height="3.08944" id="svg_37" transform="rotate(9 258.64450073242136,351.1791381835937) "/>
+    <rect stroke="null" fill="#000000" stroke-width="1.5" x="241.41326" y="367.26201" width="88.89714" height="3.08944" id="svg_38" transform="rotate(9 285.8618774414059,368.8067321777342) "/>
+    <rect stroke="null" fill="#000000" stroke-width="1.5" x="237.41326" y="393.26201" width="88.89714" height="3.08944" id="svg_39" transform="rotate(9 281.86187744140545,394.80673217773443) "/>
+    <rect stroke="null" fill="#000000" stroke-width="1.5" x="239.41326" y="380.26201" width="88.89714" height="3.08944" id="svg_40" transform="rotate(9 283.86187744140653,381.8067321777344) "/>
+    <rect stroke="null" fill="#000000" stroke-width="1.5" x="235.62465" y="402.6927" width="56.03965" height="2.97289" id="svg_41" transform="rotate(9 263.64450073242205,404.1791381835938) "/>
+    <path stroke="null" fill="#ffffff" stroke-width="1.5" stroke-opacity="null" d="m320.18976,358.05079l0,-33.04923l33.04924,33.04923l-33.04924,0z" id="svg_42" transform="rotate(9 336.71438598632784,341.52615356445295) "/>
+   </g>
+   <g stroke="null" id="svg_27">
+    <rect stroke="null" fill="#ffc548" stroke-width="1.5" x="362.95502" y="310.2429" width="125.50944" height="182.49709" id="svg_17" transform="matrix(1.6791487365672475,0.2659510328628557,-0.2659510328628557,1.6791487365672475,-57.040338212403896,-481.2853516563482) "/>
+    <rect stroke="null" fill="#000000" stroke-width="1.5" x="389.94449" y="342.87651" width="29.73403" height="3.08944" id="svg_18" transform="matrix(1.6791487365672475,0.2659510328628557,-0.2659510328628557,1.6791487365672475,-72.65563960667899,-476.9219647081404) "/>
+    <rect stroke="null" fill="#000000" stroke-width="1.5" x="387.58027" y="360.50409" width="88.89714" height="3.08944" id="svg_19" transform="matrix(1.6791487365672475,0.2659510328628557,-0.2659510328628557,1.6791487365672475,-67.39788130269437,-483.7914945074956) "/>
+    <rect stroke="null" fill="#000000" stroke-width="1.5" x="383.58027" y="386.50409" width="88.89714" height="3.08944" id="svg_20" transform="matrix(1.6791487365672475,0.2659510328628557,-0.2659510328628557,1.6791487365672475,-60.56687764913238,-482.1834895703744) "/>
+    <rect stroke="null" fill="#000000" stroke-width="1.5" x="385.58027" y="373.50409" width="88.89714" height="3.08944" id="svg_21" transform="matrix(1.6791487365672475,0.2659510328628557,-0.2659510328628557,1.6791487365672475,-63.98237947591343,-482.98749203893476) "/>
+    <rect stroke="null" fill="#000000" stroke-width="1.5" x="381.79166" y="395.93478" width="56.03965" height="2.97289" id="svg_23" transform="matrix(1.6791487365672475,0.2659510328628557,-0.2659510328628557,1.6791487365672475,-58.45558086385728,-477.14238746089677) "/>
+    <path stroke="null" fill="#ffffff" stroke-width="1.5" stroke-opacity="null" d="m616.06688,216.01427l8.78948,-55.49457l46.70511,64.28405l-55.49459,-8.78948z" id="svg_24"/>
+   </g>
+  </g>
+ </g>
+</svg>
